@@ -4,8 +4,7 @@ module.exports = {
     design: {
       ios: {
         pictureAspect: 'backgroundAndMargin',
-        backgroundColor: '#ffffff',
-        margin: '14%'
+        backgroundColor: '#ffffff'
       },
       desktopBrowser: {},
       windows: {
@@ -15,11 +14,10 @@ module.exports = {
       },
       androidChrome: {
         pictureAspect: 'backgroundAndMargin',
-        margin: '17%',
         backgroundColor: '#ffffff',
         themeColor: '#ffffff',
         manifest: {
-          name: 'Martin’s portfolio',
+          name: 'Martin’s work',
           display: 'browser',
           orientation: 'notSet',
           onConflict: 'override',
@@ -38,7 +36,7 @@ module.exports = {
   },
 
   task: {
-    src: 'src/images/favicon.png',
+    src: 'src/images/icon.png',
     dest: 'dist/assets/favicons'
   }
 };
