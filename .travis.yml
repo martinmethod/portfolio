@@ -13,15 +13,13 @@ branches:
   - /^v\d+\.\d+(\.\d+)?(-\S*)?$/
 deploy:
 - provider: releases
-  api_key:
-    secure: tRNpYd6lc9RFtxPtIWNY2b+weoMVWGoTlIg7P6gAYnTcZpNtT6dQdrnTIratMd/IgML01KzjWu4f1b9RVH4PgRVOUgp3UqLq4JtH1aixOrAdPCcDoJWN6uzUCg1ZZ/Ec9WV4NjHVLMrK4eAqZ4c1zA6B0e92gumSuNwBl20lOniyOofKvj0iqpFysggox6eaNYxDZmwvVlq4+YuRCloRtEBhVTFpbKlUCxd9i1EfldI3aRv45m0f2/FUR1xTKBK2nQqdSpLI80mTb5Evta0bpoJ4CcsVCsNLxO231t3dXqEPQ6Q9hdTT+2psc7uQ/O9lfMEb/Ef2TnuHfZApVfp0v49zDzek0MWB37iL3TcPXMw8qS+2z4eV7Pad5dRMene/sdwC6DPWbfzM7kkRtVjzJ0nQJ9v0l9AW0WCy4WyMSTV66IEYV2xOe4rxnMfcFPX9ju/ujKQi5FBpUuKb+Si+kqqtv9LXloHtL+UUJv9IjNK0GrWYPc0kwRoW2C9AnYedsGChtk1RNZ9fwk/u4+P4GjuEUW8FzcxanFWyL2xlOOJ3TXt5YApzh22G14Bc7ZKJeRi8vWLgqzNj19MANZu63tVrIm+uCx72HuJtDk/3iDwlZ2PSU5x29GO8uNS0zOW4WKXFx3bePE1jkIilh6dp/vfcbXtaXNLC2krg7adxzHM=
+  api_key: $GITHUB_TOKEN
   skip_cleanup: true
   on:
     tags: true
 - provider: pages
   skip_cleanup: true
   local_dir: dist
-  github_token:
-    secure: tRNpYd6lc9RFtxPtIWNY2b+weoMVWGoTlIg7P6gAYnTcZpNtT6dQdrnTIratMd/IgML01KzjWu4f1b9RVH4PgRVOUgp3UqLq4JtH1aixOrAdPCcDoJWN6uzUCg1ZZ/Ec9WV4NjHVLMrK4eAqZ4c1zA6B0e92gumSuNwBl20lOniyOofKvj0iqpFysggox6eaNYxDZmwvVlq4+YuRCloRtEBhVTFpbKlUCxd9i1EfldI3aRv45m0f2/FUR1xTKBK2nQqdSpLI80mTb5Evta0bpoJ4CcsVCsNLxO231t3dXqEPQ6Q9hdTT+2psc7uQ/O9lfMEb/Ef2TnuHfZApVfp0v49zDzek0MWB37iL3TcPXMw8qS+2z4eV7Pad5dRMene/sdwC6DPWbfzM7kkRtVjzJ0nQJ9v0l9AW0WCy4WyMSTV66IEYV2xOe4rxnMfcFPX9ju/ujKQi5FBpUuKb+Si+kqqtv9LXloHtL+UUJv9IjNK0GrWYPc0kwRoW2C9AnYedsGChtk1RNZ9fwk/u4+P4GjuEUW8FzcxanFWyL2xlOOJ3TXt5YApzh22G14Bc7ZKJeRi8vWLgqzNj19MANZu63tVrIm+uCx72HuJtDk/3iDwlZ2PSU5x29GO8uNS0zOW4WKXFx3bePE1jkIilh6dp/vfcbXtaXNLC2krg7adxzHM=
+  github_token: $GITHUB_TOKEN
   on:
     tags: true
