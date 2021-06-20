@@ -17,7 +17,7 @@ module.exports = {
         backgroundColor: '#ffffff',
         themeColor: '#ffffff',
         manifest: {
-          name: 'Martin’s portfolio',
+          name: 'Martin’s work',
           display: 'browser',
           orientation: 'notSet',
           onConflict: 'override',
