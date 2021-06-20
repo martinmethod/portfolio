@@ -4,8 +4,7 @@ module.exports = {
     design: {
       ios: {
         pictureAspect: 'backgroundAndMargin',
-        backgroundColor: '#ffffff',
-        margin: '14%'
+        backgroundColor: '#ffffff'
       },
       desktopBrowser: {},
       windows: {
@@ -15,7 +14,6 @@ module.exports = {
       },
       androidChrome: {
         pictureAspect: 'backgroundAndMargin',
-        margin: '17%',
         backgroundColor: '#ffffff',
         themeColor: '#ffffff',
         manifest: {
