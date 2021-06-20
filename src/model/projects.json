@@ -153,7 +153,7 @@
     "shots": 15,
     "design": {
       "author": "Boril Karaivanov",
-      "url": "http://redesign.bg/en"
+      "url": "https://boril.xyz"
     }
   },
   "edamam": {
@@ -175,7 +175,7 @@
     "shots": 5,
     "design": {
       "author": "Boril Karaivanov",
-      "url": "http://redesign.bg/en"
+      "url": "https://boril.xyz"
     }
   },
   "atrend": {
@@ -187,7 +187,7 @@
     "shots": 5,
     "design": {
       "author": "Boril Karaivanov",
-      "url": "http://redesign.bg/en"
+      "url": "https://boril.xyz"
     }
   },
   "sofiatrend": {
@@ -199,7 +199,7 @@
     "shots": 19,
     "design": {
       "author": "Boril Karaivanov",
-      "url": "http://redesign.bg/en"
+      "url": "https://boril.xyz"
     }
   },
   "razgledai": {
@@ -210,7 +210,7 @@
     "shots": 13,
     "design": {
       "author": "Boril Karaivanov",
-      "url": "http://redesign.bg/en"
+      "url": "https://boril.xyz"
     }
   },
   "balkan_holidays": {
@@ -232,7 +232,7 @@
     "shots": 5,
     "design": {
       "author": "Boril Karaivanov",
-      "url": "http://redesign.bg/en"
+      "url": "https://boril.xyz"
     }
   },
   "boyanov": {
@@ -243,7 +243,7 @@
     "shots": 5,
     "design": {
       "author": "Boril Karaivanov",
-      "url": "http://redesign.bg/en"
+      "url": "https://boril.xyz"
     }
   },
   "webloz10": {
@@ -254,7 +254,7 @@
     "shots": 2,
     "design": {
       "author": "Boril Karaivanov",
-      "url": "http://redesign.bg/en"
+      "url": "https://boril.xyz"
     }
   },
   "rama_cremefine": {
@@ -322,7 +322,7 @@
     "shots": 10
   },
   "ubb": {
-    "name": "Bulgarian Capitals, Strongholds and Relics",
+    "name": "Bulgarian Capitals, Strongholds & Relics",
     "category": "assignments",
     "assigner": "magstudio",
     "status": "prod",

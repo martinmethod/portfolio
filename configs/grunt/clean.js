@@ -6,6 +6,7 @@ module.exports = {
   styles:   ['dist/assets/css'],
   scripts:  ['dist/assets/scripts'],
   images:   ['dist/assets/images'],
+  fonts:    ['dist/assets/fonts'],
   favicons: ['dist/assets/favicons']
 
 };
