@@ -13,13 +13,14 @@
 
     .name {
       float: left;
-      width: 56%;
+      width: 48%;
       color: $gray-666;
       text-transform: none;
     }
 
     .links {
       float: right;
+      margin-top: 1px;
 
       a {
         margin-left: 10px;

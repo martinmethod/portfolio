@@ -14,7 +14,10 @@ module.exports = {
     ['concat', 'uglify'],
 
     // images
-    ['copy:images']
+    ['copy:images'],
+
+    // fonts
+    ['copy:fonts']
   ],
 
   prod: [
