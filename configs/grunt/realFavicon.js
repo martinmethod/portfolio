@@ -38,7 +38,7 @@ module.exports = {
   },
 
   task: {
-    src: 'src/images/favicon.png',
+    src: 'src/images/icon.png',
     dest: 'dist/assets/favicons'
   }
 };
