@@ -13,11 +13,11 @@ module.exports = {
 
   build: {
     app: browser,
-    path: 'https://travis-ci.org/martinmethod/<%= pkg.name %>/builds'
+    path: 'https://travis-ci.org/methodev/<%= pkg.name %>/builds'
   },
 
   repo: {
     app: browser,
-    path: 'https://github.com/martinmethod/<%= pkg.name %>'
+    path: 'https://github.com/methodev/<%= pkg.name %>'
   }
 };

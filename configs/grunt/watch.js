@@ -20,12 +20,12 @@ module.exports = {
   },
 
   images: {
-    files: ['src/images/**/*', '!src/images/favicon.png'],
+    files: ['src/images/**/*'],
     tasks: ['clean:images', 'copy:images']
   },
 
   favicons: {
-    files: ['src/images/favicon.png'],
+    files: ['src/images/icon.png'],
     tasks: ['realFavicon']
   }
 };

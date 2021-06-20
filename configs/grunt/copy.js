@@ -5,7 +5,7 @@ module.exports = {
     files: [{
       expand: true,
       cwd: 'src/images',
-      src: ['**', '!favicon.png'],
+      src: ['**'],
       dest: 'dist/assets/images/'
     }]
   }

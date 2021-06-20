@@ -1,12 +1,12 @@
 {
   "name": "portfolio",
   "title": "Martin Metodiev's portfolio",
-  "description": "Martin Metodiev's portfolio",
-  "version": "1.16.1",
+  "description": "This portfolio has been discontinued since 2017.",
+  "version": "1.16.2",
   "license": "UNLICENSED",
   "repository": {
     "type": "git",
-    "url": "git://github.com/martinmethod/portfolio.git"
+    "url": "git://github.com/methodev/portfolio.git"
   },
   "homepage": "https://portfolio.metodiev.dev",
   "author": {
@@ -21,7 +21,6 @@
     "jquery": "3.5.1",
     "jumboslider": "1.4.5",
     "masonry-layout": "4.2.2",
-    "node-sass": "^4.14.1",
     "normalize.css": "8.0.1"
   },
   "devDependencies": {
@@ -34,9 +33,9 @@
     "grunt-contrib-connect": "^3.0.0",
     "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-htmlmin": "^3.1.0",
-    "grunt-contrib-jshint": "^2.1.0",
-    "grunt-contrib-pug": "^2.0.0",
-    "grunt-contrib-uglify": "^5.0.0",
+    "grunt-contrib-jshint": "^3.0.0",
+    "grunt-contrib-pug": "^3.0.0",
+    "grunt-contrib-uglify": "^5.0.1",
     "grunt-contrib-watch": "^1.1.0",
     "grunt-conventional-changelog": "^6.1.0",
     "grunt-open": "^0.2.4",
@@ -50,6 +49,7 @@
     "lib-sass-data-uri": "0.0.4",
     "load-grunt-config": "^3.0.1",
     "load-grunt-tasks": "^5.1.0",
+    "node-sass": "^6.0.0",
     "node-sass-globbing": "0.0.23",
     "popper.js": "^1.16.1",
     "time-grunt": "^2.0.0"
