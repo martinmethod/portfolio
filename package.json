@@ -21,7 +21,6 @@
     "jquery": "3.5.1",
     "jumboslider": "1.4.5",
     "masonry-layout": "4.2.2",
-    "node-sass": "^4.14.1",
     "normalize.css": "8.0.1"
   },
   "devDependencies": {
@@ -50,6 +49,7 @@
     "lib-sass-data-uri": "0.0.4",
     "load-grunt-config": "^3.0.1",
     "load-grunt-tasks": "^5.1.0",
+    "node-sass": "^6.0.0",
     "node-sass-globbing": "0.0.23",
     "popper.js": "^1.16.1",
     "time-grunt": "^2.0.0"
