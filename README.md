@@ -1,6 +1,6 @@
 # Martin Metodiev's portfolio
                                                    
-[![Travis](https://img.shields.io/travis/martinmethod/portfolio.svg)](https://travis-ci.org/martinmethod/portfolio) [![David](https://img.shields.io/david/dev/martinmethod/portfolio.svg)](https://david-dm.org/martinmethod/portfolio?type=dev) [![GitHub release](https://img.shields.io/github/release/martinmethod/portfolio.svg)](https://github.com/martinmethod/portfolio/releases/latest)
+[![Travis](https://img.shields.io/travis/methodev/portfolio.svg)](https://travis-ci.org/methodev/portfolio) [![David](https://img.shields.io/david/dev/methodev/portfolio.svg)](https://david-dm.org/methodev/portfolio?type=dev) [![GitHub release](https://img.shields.io/github/release/methodev/portfolio.svg)](https://github.com/methodev/portfolio/releases/latest)
 
 This document represents my professional portfolio. It includes a selective part of both personal and assigned works which I had the honor to be part of and the opportunity to grow through them.
 
