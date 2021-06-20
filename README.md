@@ -1,4 +1,4 @@
-# Martin Metodiev's portfolio
+# Martin Metodiev’s portfolio
                                                    
 [![Travis](https://img.shields.io/travis/methodev/portfolio.svg)](https://travis-ci.org/methodev/portfolio) [![David](https://img.shields.io/david/dev/methodev/portfolio.svg)](https://david-dm.org/methodev/portfolio?type=dev) [![GitHub release](https://img.shields.io/github/release/methodev/portfolio.svg)](https://github.com/methodev/portfolio/releases/latest)
 
