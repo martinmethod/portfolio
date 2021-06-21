@@ -28,6 +28,8 @@
   "-W065": true,
   "predef": [
     "jQuery",
-    "FastClick"
+    "FastClick",
+    "workbox",
+    "importScripts"
   ]
 }

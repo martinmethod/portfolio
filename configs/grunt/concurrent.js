@@ -17,7 +17,10 @@ module.exports = {
     ['copy:images'],
 
     // fonts
-    ['copy:fonts']
+    ['copy:fonts'],
+
+    // PWA
+    ['copy:pwa']
   ],
 
   prod: [

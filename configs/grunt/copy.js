@@ -18,6 +18,16 @@ module.exports = {
       src: ['**'],
       dest: 'dist/assets/fonts/'
     }]
+  },
+
+  // PWA files
+  pwa: {
+    files: [{
+      expand: true,
+      cwd: 'src/pwa',
+      src: ['**'],
+      dest: 'dist/'
+    }]
   }
 
 };
