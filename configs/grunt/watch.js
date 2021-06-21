@@ -24,6 +24,16 @@ module.exports = {
     tasks: ['clean:images', 'copy:images']
   },
 
+  fonts: {
+    files: ['src/fonts/**/*'],
+    tasks: ['clean:fonts', 'copy:fonts']
+  },
+
+  pwa: {
+    files: ['src/pwa/**/*'],
+    tasks: ['clean:pwa', 'copy:pwa']
+  },
+
   favicons: {
     files: ['src/images/icon.png'],
     tasks: ['realFavicon']

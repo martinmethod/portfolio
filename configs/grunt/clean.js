@@ -7,6 +7,7 @@ module.exports = {
   scripts:  ['dist/assets/scripts'],
   images:   ['dist/assets/images'],
   fonts:    ['dist/assets/fonts'],
-  favicons: ['dist/assets/favicons']
+  favicons: ['dist/assets/favicons'],
+  pwa:      ['dist/manifest.json', 'dist/sw.js']
 
 };
