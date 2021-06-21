@@ -13,7 +13,7 @@ module.exports = {
 
   build: {
     app: browser,
-    path: 'https://travis-ci.org/methodev/<%= pkg.name %>/builds'
+    path: 'https://travis-ci.com/github/methodev/<%= pkg.name %>'
   },
 
   repo: {
