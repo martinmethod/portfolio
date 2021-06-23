@@ -33,7 +33,7 @@ module.exports = {
         },
         androidChrome: {
           pictureAspect: 'noChange',
-          themeColor: '#ffffff',
+          themeColor: '#9c2500',
           manifest: {
             name: 'Martin’s work',
             display: 'standalone',
